@@ -1,3 +1,6 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
+
+
 # AngularCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
